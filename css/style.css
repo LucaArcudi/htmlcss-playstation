@@ -28,3 +28,8 @@ div.jumbo button
 {
     margin-bottom: 3rem;
 }
+
+div.jumbo-games img{
+    width: 100%;
+    border-radius: 20px;
+}
