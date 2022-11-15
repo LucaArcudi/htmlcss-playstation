@@ -2,3 +2,13 @@ h1{
     font-family: Serif;
     font-size: 1.5rem;
 }
+
+.row{
+    height: 10rem;
+    background-color: aqua;
+    padding: 1rem;
+}
+
+div[class^=col-]{
+    background-color: aquamarine;
+}
