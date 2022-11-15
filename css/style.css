@@ -33,3 +33,13 @@ div.jumbo-games img{
     width: 100%;
     border-radius: 20px;
 }
+
+/* PS-NOLIMITS */
+section.ps-nolimits span{
+    font-weight: 500;
+    color: #157DD2;
+}
+
+section.ps-nolimits p{
+    color: #727272;
+}
