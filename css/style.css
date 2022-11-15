@@ -7,4 +7,24 @@ div.logo-sony{
     height: 30px;
 }
 
+/* MAIN */
 
+/* JUMBOTRON */
+div.jumbo div.col-12{
+    background-image: url(../img/jumbo-bg.png);
+    background-size: cover;
+    background-position: center;
+}
+
+div.jumbo img{
+    height: 64px;
+    margin-top: 300px;
+}
+
+div.jumbo img,
+div.jumbo h1,
+div.jumbo p,
+div.jumbo button
+{
+    margin-bottom: 3rem;
+}
