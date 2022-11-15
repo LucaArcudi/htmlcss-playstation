@@ -1,18 +1,10 @@
-h1{
-    font-family: Serif;
-    font-size: 1.5rem;
-}
-
-.row{
-    height: 25rem;
-    background-color: aqua;
-    padding: 1rem;
-}
-
-div[class^=col-]{
-    background-color: aquamarine;
-}
-
 ul{
     list-style: none;
 }
+
+/* HEADER */
+div.logo-sony{
+    height: 30px;
+}
+
+
