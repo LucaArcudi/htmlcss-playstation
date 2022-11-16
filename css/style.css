@@ -12,8 +12,8 @@ div.logo-sony{
 /* JUMBOTRON */
 div.jumbo div.col-12{
     background-image: url(../img/jumbo-bg.png);
-    background-size: cover;
     background-position: center;
+    background-size: cover;
 }
 
 div.jumbo img{
@@ -60,4 +60,41 @@ div.ps-info h1,
 div.ps-info p,
 div.ps-info button{
     margin-bottom: 2.5rem;
+}
+
+/* PS-NEWGAMES */
+div.games-displayer div.col-12{
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+    background-size: cover;
+    background-position: center;
+}
+
+div.games-displayer img{
+    height: 10rem;
+    margin-top: 100px;
+}
+
+div.games-displayer img,
+div.games-displayer h1,
+div.games-displayer p,
+div.games-displayer button
+{
+    margin-bottom: 3rem;
+}
+
+div.games{
+    background-color: #1F1F1F;
+    color: #FFFFFF;
+}
+
+div.games img{
+    width: 100%;
+    border-radius: 20px;
+}
+
+div.games h1,
+div.games h2
+{
+    margin-top: 0rem;
+    margin-bottom: 2rem;
 }
