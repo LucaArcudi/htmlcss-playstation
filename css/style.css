@@ -41,6 +41,8 @@ section.ps-nolimits span{
 }
 
 section.ps-nolimits p{
+    font-size: 1.45rem;
+    font-weight: 500;
     color: #727272;
 }
 
@@ -140,4 +142,22 @@ img.ps-plus-banner{
 
 section.ps-plus button{
     background-color: #D9DADC;
+}
+
+/* PS-DISCOUNTS */
+section.ps-discounts h1,
+section.ps-discounts p
+{
+    margin-bottom: 3rem;
+}
+
+section.ps-discounts p{
+    font-size: 1.45rem;
+    font-weight: 500;
+    color: #727272;
+}
+
+section.ps-discounts img{
+    width: 100%;
+    margin-bottom: 3rem;
 }
