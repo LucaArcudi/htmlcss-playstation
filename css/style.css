@@ -43,3 +43,21 @@ section.ps-nolimits span{
 section.ps-nolimits p{
     color: #727272;
 }
+
+/* PS-INFO-IMG */
+div.ps-info h1{
+    margin-top: 150px;
+    font-size: 3rem;
+}
+
+div.ps-info p{
+    font-size: 1.45rem;
+    font-weight: 500;
+    color: #727272;
+}
+
+div.ps-info h1,
+div.ps-info p,
+div.ps-info button{
+    margin-bottom: 2.5rem;
+}
