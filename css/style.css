@@ -161,3 +161,23 @@ section.ps-discounts img{
     width: 100%;
     margin-bottom: 3rem;
 }
+
+/* PS-NOW */
+section.ps-now{
+    background-color: #161C3B;
+    margin-bottom: 6rem;
+}
+
+section.ps-now p{
+    color: #FFFFFF;
+    font-weight: 500;
+}
+
+img.ps-now-logo{
+    padding-top: 4rem;
+}
+
+img.ps-now-logo,
+img.ps-now-banner{
+    width: 100%;
+}
