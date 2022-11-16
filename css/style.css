@@ -122,3 +122,22 @@ div.accessories-play-four img{
 div.accessories-play-four{
     margin-bottom: 3rem;
 }
+
+/* PS-PLUS */
+section.ps-plus{
+    background-color: #BEBCBB;
+    margin-bottom: 6rem;
+}
+
+img.ps-plus-logo{
+    padding-top: 3rem;
+}
+
+img.ps-plus-logo,
+img.ps-plus-banner{
+    width: 100%;
+}
+
+section.ps-plus button{
+    background-color: #D9DADC;
+}
